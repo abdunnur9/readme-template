@@ -74,7 +74,7 @@ __this is an italic text__
  <br/>
 
  ### automatic link  
- http://github.com/abdunnur9/profile/
+ http://github.com/abdunnur9
 
  <br/>  
 
